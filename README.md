@@ -1,6 +1,6 @@
 # MemesWar Bot
 
-An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot) tasks and activities.
+An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=3K4X6N) tasks and activities.
 
 ## Features
 
@@ -21,8 +21,8 @@ An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot) tasks
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/memeswar-bot.git
-cd memeswar-bot
+git clone https://github.com/Galkurta/MemeWar-BOT.git
+cd MemeWar-BOT
 ```
 
 2. Install dependencies
