@@ -361,9 +361,12 @@ class MemesWarBot {
       return;
     }
 
-    const pendingQuests = questsResult.data.filter(
-      (quest) => quest.status === "GO"
-    );
+    const pendingQuests = questsResult.data
+      .filter((quest) => quest.status === "GO")
+      .filter(
+        (quest) => quest.title !== "Turn on alarm on @Memes_War_Start_Bot"
+      );
+
     if (pendingQuests.length === 0) {
       logger.warn("No quests available");
       return;
