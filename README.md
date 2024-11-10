@@ -34,7 +34,7 @@ npm install
 3. Edit `data.txt` file in the root directory
 
 - Open Telegram Web
-- Login and visit [MemesWar Bot](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=3K4X6N)
+- Login and visit [MemesWar Bot](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=A3L7BS)
 - Press F12 to open Developer Tools
 - Go to Network tab
 - Find request to "memes-war.memecore.com"
@@ -81,7 +81,7 @@ node main.js
 
 ## Register
 
-New to MemesWar? Register using [this link](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=3K4X6N) to get started with additional benefits!
+New to MemesWar? Register using [this link](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=A3L7BS) to get started with additional benefits!
 
 ## Warning
 
