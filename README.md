@@ -1,6 +1,6 @@
 # MemesWar Bot
 
-An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=3K4X6N) tasks and activities.
+An automated bot for managing [MemesWar](https://t.me/Memes_War_Start_Bot/MemesWar?startapp=A3L7BS) tasks and activities.
 
 ## Features
 
