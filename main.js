@@ -7,7 +7,7 @@ const banner = require("./config/banner");
 
 // Constants
 const CONSTANTS = {
-  TARGET_GUILD_ID: "806b815d-4a46-4454-bb2b-b8904391add9",
+  TARGET_GUILD_ID: "da52068c-8c93-4c63-a8e9-da14ff27882f",
   MIN_WARBOND_THRESHOLD: 1000,
   BASE_URL: "https://memes-war.memecore.com/api",
   COUNTDOWN_INTERVAL: 65 * 60,
